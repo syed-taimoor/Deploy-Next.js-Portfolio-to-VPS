@@ -240,7 +240,7 @@ systemctl reload nginx
 
 ---
 
-## Step 11 — Open Firewall Port
+## Step 11 — Open Firewall Port (Optional) Initaly you don't open any port
 
 Allow HTTP traffic:
 
